@@ -1,0 +1,36 @@
+#container {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+body {
+    background-color: beige;
+}
+
+header {
+    margin: 30px;
+}
+
+main {
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: darkmagenta;
+}
+
+ p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border: solid darkmagenta 2px;
+    border-radius: 10px;
+}
